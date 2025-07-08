@@ -3,4 +3,4 @@ dd
 r
 t
 w
-wr
+w
